@@ -1,3 +1,5 @@
+// problem link: https://leetcode.com/problems/third-maximum-number/
+
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
